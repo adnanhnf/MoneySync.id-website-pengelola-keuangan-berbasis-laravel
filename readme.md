@@ -1,20 +1,17 @@
-<p align="center"><img src="https://imgur.com/a/vAmlV5c" width="500"></p>
+<p align="center"><img src="https://i.imgur.com/im4lO6y.png" width="500"></p>
 
-## UANGKU - EASY TRACKING YOUR MONEY
+## MONEYSYNC.ID - WEBSITE PENGELOLA KEUANGAN
+MONEYSYNC.ID adalah website yang dikembangkan untuk mencatat problem keuangan, seperti keuangan masuk (debit) dan keuangan keluar (credit). Beberapa fitur diantaranya:
 
-UANGKU adalah aplikasi opens source yang dikembangkan untuk mencatat problem keuangan, seperti keuangan masuk / debit dan keuangan keluar / credit. Beberapa fitur diantaranya:
-
-- Daftar (Development)
+- Daftar 
 - Masuk / Login
-- Lupa Password (Development)
 - Dashboard
 - Kategori Uang Masuk
 - Uang Masuk
 - Kategori Uang keluar
 - Uang keluar
 
-UANGKU juga akan dibuat versi native android, yang rencana akan di kembangkan dengan android studi / java.
-Untuk versi webnya menggunakan Framework Laravel
+Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
 
 **NOTE**: template admin menggunakan stisla, untuk lebih lengkapnya bisa kunjungi situs resminya di: https://getstisla.com/
 
