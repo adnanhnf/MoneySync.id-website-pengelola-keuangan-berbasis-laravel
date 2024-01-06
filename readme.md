@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/2v6AyjS.png" width="200"></p>
+<p align="center"><img src="https://i.imgur.com/2v6AyjS.png" width="500"></p>
 
 ## UANGKU - EASY TRACKING YOUR MONEY
 
