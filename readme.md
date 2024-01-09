@@ -16,7 +16,7 @@ Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
 **NOTE**: template admin menggunakan stisla, untuk lebih lengkapnya bisa kunjungi situs resminya di: https://getstisla.com/
 
 ## Screenshot
-#### Landing Page
+### - Landing Page
 <div style="display:flex;justify-content:space-between;">
   <img src="https://i.imgur.com/P7d3AhU.png" style="width:33%;" />
   <img src="https://i.imgur.com/TaR13Xt.png" style="width:33%;" />
