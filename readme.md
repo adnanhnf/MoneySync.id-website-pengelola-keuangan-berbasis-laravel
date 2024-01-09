@@ -30,7 +30,7 @@ Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
 <img src="https://i.imgur.com/IAZp6Te.png" style="width:100%;" />
   
 - Laporan Uang Masuk
-<img src="https://i.imgur.com/aPv4II6.png" style="width:100%;" />
+<img src="https://i.imgur.com/ceFC7CX.png" style="width:100%;" />
   
 - Fitur Cetak Laporan
 <img src="https://i.imgur.com/POo8rN6.png" style="width:100%;" />
