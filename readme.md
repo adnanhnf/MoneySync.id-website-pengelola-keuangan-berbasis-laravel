@@ -23,17 +23,17 @@ Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
   <img src="https://i.imgur.com/sPnGPjI.png" style="width:33%;" />
 </div>
 
-- Dashboard 
- <img src="https://i.imgur.com/GbDi420.png" style="width:100%;" />
+- Dashboard
+<img src="https://i.imgur.com/GbDi420.png" style="width:100%;" />
  
 - Uang Masuk
-  <img src="https://i.imgur.com/IAZp6Te.png" style="width:100%;" />
+<img src="https://i.imgur.com/IAZp6Te.png" style="width:100%;" />
   
 - Laporan Uang Masuk
 <img src="https://i.imgur.com/aPv4II6.png" style="width:100%;" />
   
 - Fitur Cetak Laporan
-  <img src="https://i.imgur.com/POo8rN6.png" style="width:49%;" />
+<img src="https://i.imgur.com/POo8rN6.png" style="width:100%;" />
 
 ## Cara Install
 
