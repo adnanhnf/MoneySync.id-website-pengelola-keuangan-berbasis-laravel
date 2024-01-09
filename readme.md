@@ -23,11 +23,13 @@ Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
   <img src="https://i.imgur.com/sPnGPjI.png" style="width:33%;" />
 </div>
 
-- Fitur-fitur
+- Dashboard dan Uang Masuk
 <div style="display:flex;justify-content:space-between;">
   <img src="https://i.imgur.com/GbDi420.png" style="width:49%;" />
   <img src="https://i.imgur.com/IAZp6Te.png" style="width:49%;" />
 </div>
+
+- Laporan dan Fitur Cetak 
 <div style="display:flex;justify-content:space-between;">
   <img src="https://i.imgur.com/aPv4II6.png" style="width:49%;" />
   <img src="https://i.imgur.com/POo8rN6.png" style="width:49%;" />
