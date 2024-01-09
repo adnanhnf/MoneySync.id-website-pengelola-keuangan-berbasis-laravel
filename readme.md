@@ -23,20 +23,16 @@ Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
   <img src="https://i.imgur.com/sPnGPjI.png" style="width:33%;" />
 </div>
 
-- Login
-<img src="https://i.imgur.com/hFNKtsc.png" style="width:100%">
+- Fitur-fitur
+<div style="display:flex;justify-content:space-between;">
+  <img src="https://i.imgur.com/GbDi420.png" style="width:50%;" />
+  <img src="https://i.imgur.com/IAZp6Te.png" style="width:50%;" />
+</div>
+<div style="display:flex;justify-content:space-between;">
+  <img src="https://i.imgur.com/aPv4II6.png" style="width:50%;" />
+  <img src="https://i.imgur.com/POo8rN6.png" style="width:50%;" />
+</div>
 
-- Register
-<img src="https://i.imgur.com/vLeOxNn.png" style="width:100%">
-
-- Dashboard
-<img src="https://i.imgur.com/GbDi420.png" style="width:100%">
-
-- Uang Masuk
-<img src="https://i.imgur.com/IAZp6Te.png" style="width:100%">
-
-- Laporan Uang Masuk
-<img src="https://i.imgur.com/aPv4II6.png" style="width:100%">
 
 ## Cara Install
 
@@ -72,3 +68,8 @@ Silahkan buka browser dan ketikkan : http://localhost:8000
 ## License
 
 UANGKU is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Oleh
+220103111 – Adnan Hanafi
+220103124 – Farid Anwar Shidiq
+220103123 – Fitria Ayu Novitasari
