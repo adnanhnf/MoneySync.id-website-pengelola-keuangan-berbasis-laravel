@@ -16,23 +16,23 @@ Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
 **NOTE**: template admin menggunakan stisla, untuk lebih lengkapnya bisa kunjungi situs resminya di: https://getstisla.com/
 
 ## Screenshot
-### - Landing Page
+### Landing Page
 <div style="display:flex;justify-content:space-between;">
   <img src="https://i.imgur.com/P7d3AhU.png" style="width:33%;" />
   <img src="https://i.imgur.com/TaR13Xt.png" style="width:33%;" />
   <img src="https://i.imgur.com/sPnGPjI.png" style="width:33%;" />
 </div> ㅤㅤ
 
-#### Dashboard
+### Dashboard
 <img src="https://i.imgur.com/GbDi420.png" style="width:100%;" />
  
-#### Uang Masuk
+### Uang Masuk
 <img src="https://i.imgur.com/IAZp6Te.png" style="width:100%;" />
   
-#### Laporan Uang Masuk
+### Laporan Uang Masuk
 <img src="https://i.imgur.com/ceFC7CX.png" style="width:100%;" />
   
-#### Fitur Cetak Laporan
+### Fitur Cetak Laporan
 <img src="https://i.imgur.com/POo8rN6.png" style="width:100%;" />
 
 ## Cara Install
