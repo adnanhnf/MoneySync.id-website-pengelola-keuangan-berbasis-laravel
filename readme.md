@@ -18,8 +18,9 @@ Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
 ## Screenshot
 - Landing Page
 <div style="display:flex;justify-content:space-between;">
-  <img src="https://i.imgur.com/P7d3AhU.png" style="width:45%;" />
-  <img src="https://i.imgur.com/TaR13Xt.png" style="width:45%;" />
+  <img src="https://i.imgur.com/P7d3AhU.png" style="width:33.3%;" />
+  <img src="https://i.imgur.com/TaR13Xt.png" style="width:30.3%;" />
+  <img src="https://i.imgur.com/sPnGPjI.png" style="width:30.3%;" />
 </div>
 
 - Login
