@@ -1,9 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/im4lO6y.png" width="500"></p>
 
 ## MONEYSYNC.ID - WEBSITE PENGELOLA KEUANGAN
-MONEYSYNC.ID merupakan sistem yang dirancang untuk memberikan solusi efektif dalam pengelolaan keuangan, dengan fokus pada kemudahan penggunaan dan pemahaman informasi keuangan. 
-
 Video profil: https://youtu.be/pmvnKwojoI8
+
+MONEYSYNC.ID merupakan sistem yang dirancang untuk memberikan solusi efektif dalam pengelolaan keuangan, dengan fokus pada kemudahan penggunaan dan pemahaman informasi keuangan. 
 
 Beberapa fitur diantaranya: 
 
