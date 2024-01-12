@@ -37,9 +37,9 @@ Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
 
 ## Cara Install
 
-`$ > git clone https://github.com/maulayyacyber/uangku-laravel.git`
+`$ git clone https://github.com/adnanhnf/MoneySync.id-website-pengelola-keuangan-berbasis-laravel.git`
 
-`$ > cd uangku-laravel`
+`$ > cd MoneySync.id-website-pengelola-keuangan-berbasis-laravel`
 
 `$ > composer install`
 
@@ -53,10 +53,9 @@ silahkan konfigurasi pengaturan database, seperti host, user, password dan nama 
 
 `$ > php artisan db:seed`
 
+USERNAME : prastomow
 
-USERNAME : admin
-
-PASSWORD : admin
+PASSWORD : tomo123
 
 ## Cara Menjalankan
 
@@ -66,11 +65,7 @@ PASSWORD : admin
 
 Silahkan buka browser dan ketikkan : http://localhost:8000
 
-## License
-
-UANGKU is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Oleh
-220103111 – Adnan Hanafi
-220103124 – Farid Anwar Shidiq
-220103123 – Fitria Ayu Novitasari
+### Dikembangkan Oleh
+-  Adnan Hanafi (220103111)
+-  Farid Anwar Shidiq (220103124)
+-  Fitria Ayu Novitasari (220103123)
