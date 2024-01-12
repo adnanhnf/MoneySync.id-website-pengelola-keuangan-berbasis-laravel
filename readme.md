@@ -1,19 +1,20 @@
 <p align="center"><img src="https://i.imgur.com/im4lO6y.png" width="500"></p>
 
 ## MONEYSYNC.ID - WEBSITE PENGELOLA KEUANGAN
-MONEYSYNC.ID adalah website yang dikembangkan untuk mencatat problem keuangan, seperti keuangan masuk (debit) dan keuangan keluar (credit). Beberapa fitur diantaranya:
+MONEYSYNC.ID merupakan sistem yang dirancang untuk memberikan solusi efektif dalam pengelolaan keuangan, dengan fokus pada kemudahan penggunaan dan pemahaman informasi keuangan. 
+Beberapa fitur diantaranya: 
 
-- Daftar 
+- Daftar / Register
 - Masuk / Login
 - Dashboard
-- Kategori Uang Masuk
-- Uang Masuk
-- Kategori Uang keluar
-- Uang keluar
+- Tambah Kategori Uang Masuk
+- Catat Uang Masuk
+- Tambah Kategori Uang keluar
+- Catat Uang keluar
+- Lihat Laporan
+- Cetak PDF Laporan
 
-Pada penyusunan website ini menggunakan PHP versi 7.4 dan Framework Laravel 8.
-
-**NOTE**: template admin menggunakan stisla, untuk lebih lengkapnya bisa kunjungi situs resminya di: https://getstisla.com/
+Dalam perancangan website ini, kami menggunakan PHP versi 7.4 dan Framework Laravel 8.
 
 ## Screenshot
 ### Landing Page
