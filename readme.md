@@ -66,7 +66,7 @@ PASSWORD : tomo123
 
 Silahkan buka browser dan ketikkan : http://localhost:8000
 
-### Dikembangkan Oleh
+## Dikembangkan Oleh
 -  Adnan Hanafi (220103111)
 -  Farid Anwar Shidiq (220103124)
 -  Fitria Ayu Novitasari (220103123)
