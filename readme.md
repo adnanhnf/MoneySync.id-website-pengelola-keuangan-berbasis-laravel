@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/im4lO6y.png" width="500"></p>
+<p align="center"><img src="https://i.imgur.com/aEXBPvs.png" width="500"></p>
 
 ## MONEYSYNC.ID - WEBSITE PENGELOLA KEUANGAN
 Video profil: https://youtu.be/pmvnKwojoI8
@@ -22,22 +22,22 @@ Dalam perancangan website ini, kami menggunakan PHP versi 7.4 dan Framework Lara
 ## Screenshot
 ### Landing Page
 <div style="display:flex;justify-content:space-between;">
-  <img src="https://i.imgur.com/P7d3AhU.png" style="width:32%;" />
-  <img src="https://i.imgur.com/TaR13Xt.png" style="width:32%;" />
-  <img src="https://i.imgur.com/sPnGPjI.png" style="width:32%;" />
+  <img src="https://i.imgur.com/sJhbUxM.png" style="width:32%;" />
+  <img src="https://i.imgur.com/wZbdHwR.png" style="width:32%;" />
+  <img src="https://i.imgur.com/DuNqocS.png" style="width:32%;" />
 </div> ㅤㅤ
 
 ### Dashboard
-<img src="https://i.imgur.com/GbDi420.png" style="width:100%;" />
+<img src="https://i.imgur.com/nB4aUbZ.png" style="width:100%;" />
  
 ### Uang Masuk
-<img src="https://i.imgur.com/IAZp6Te.png" style="width:100%;" />
+<img src="https://i.imgur.com/pztYL3h.png" style="width:100%;" />
   
 ### Laporan Uang Masuk
-<img src="https://i.imgur.com/ceFC7CX.png" style="width:100%;" />
+<img src="https://i.imgur.com/epOSEE8.png" style="width:100%;" />
   
 ### Fitur Cetak Laporan
-<img src="https://i.imgur.com/POo8rN6.png" style="width:100%;" />
+<img src="https://i.imgur.com/MMlgaqZ.png" style="width:100%;" />
 
 ## Cara Install
 
